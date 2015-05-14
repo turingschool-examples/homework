@@ -20,7 +20,7 @@
 
 ##### Day 5 & Weekend
   * Continue transforming Skill Inventory or Robot World to use Sequel & Sqlite3.
-  * Suggested: http://sql.learncodethehardway.org/book/
+  * Suggested: Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book. 
 
 ## Week 2
 
