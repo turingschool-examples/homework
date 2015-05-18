@@ -3,6 +3,7 @@
 ##### Ongoing
   * Reverse-engineer one of your favorite websites to practice your HTML/CSS skills.
   * [CSS Zen Garden](http://www.csszengarden.com/)
+  * Experiment with [Bootstrap](http://getbootstrap.com/). 
 
 ##### Day 1
   * Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
