@@ -5,8 +5,8 @@
   * [CSS Zen Garden](http://www.csszengarden.com/)
 
 ##### Day 1
-  * Use HTML & CSS to style TaskManager
-  * Research: What is CRUD? What pieces of CRUD functionality are already implemented in TaskManager? What pieces are missing? How do you anticipate that these pieces will be implemented?
+  * Finish styling TaskManager `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`
+  * Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
 
 ##### Day 2
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
