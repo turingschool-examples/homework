@@ -13,8 +13,8 @@
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
 
 ##### Day 3
-  * Continue working on Skill Inventory or Robot World. Add feature tests using Capybara that hit each route in your controller.
-  * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 60 minutes. Come with questions for Josh. 
+  * Continue working on Skill Inventory or Robot World. Add model and feature tests using Capybara that hit each route in your controller. This should take about 60 minutes. 
+  * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 40 minutes. Come with questions for Josh. 
 
 ##### Day 4
   * Transform Skill Inventory or Robot World to use Sequel & Sqlite3. You'll continue working on this over the weekend. 
