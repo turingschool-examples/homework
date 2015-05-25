@@ -34,7 +34,7 @@
 ##### Day 3
   * Continue working on Traffic Spy
 
-##### Day 4
+##### Day 4 & Weekend
   * Continue working on Traffic Spy
 
 ## Week 3
