@@ -40,7 +40,7 @@
 ## Week 3
 
 ##### Day 1
-  * 
+  * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework. 
 
 ##### Day 2
   * 
