@@ -43,7 +43,7 @@
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework. 
 
 ##### Day 2
-  * 
+  * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
 
 ##### Day 3
   * 
