@@ -46,7 +46,7 @@
   * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
 
 ##### Day 3
-  * 
+  * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ##### Day 4
   * 
