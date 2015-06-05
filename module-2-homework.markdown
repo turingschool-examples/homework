@@ -49,10 +49,10 @@
   * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ##### Day 4
-  * 
+  * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
 
 ##### Day 5 & Weekend
-  * 
+  * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
 
 ## Week 4
 
