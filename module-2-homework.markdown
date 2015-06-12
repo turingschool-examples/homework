@@ -57,19 +57,20 @@
 ## Week 4
 
 ##### Day 1
-  * 
+  * Practice Basic Rails CRUD in preparation for mid-module assessment
+  * Sessions, Cookies and Flashes
 
 ##### Day 2
-  * 
+  * Authentication in MyJams
 
 ##### Day 3
-  * 
+  * Authorization in MyJams
 
 ##### Day 4
-  * 
+  * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 ##### Day 5 & Weekend
-  * 
+  * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
 
 ## Week 5
 
