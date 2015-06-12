@@ -57,6 +57,7 @@
 ## Week 4
 
 ##### Day 1
+  * Finish Contact Manager
   * Practice Basic Rails CRUD in preparation for mid-module assessment
   * Sessions, Cookies and Flashes
 
