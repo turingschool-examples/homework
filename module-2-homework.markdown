@@ -76,33 +76,33 @@
 ## Week 5
 
 ##### Day 1
-  * 
+  * Start implementing the cart and order lifecycle in [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ##### Day 2
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): can you use factories? 
 
 ##### Day 3
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): refactor your views; make your controllers skinny
 
 ##### Day 4
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): make sure that your app works on Heroku
 
 ##### Day 5 & Weekend
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ## Week 6
 
 ##### Day 1
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ##### Day 2
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): implement category and order filtering with jQuery. 
 
 ##### Day 3
-  * 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ##### Day 4
-  * 
+  * Demo night!
 
 ##### Day 5 & Weekend
-  * 
+  * Enjoy your intermission week! 
