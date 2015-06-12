@@ -79,10 +79,10 @@
   * Start implementing the cart and order lifecycle in [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ##### Day 2
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): can you use factories? 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): refactor your views 
 
 ##### Day 3
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): refactor your views; make your controllers skinny
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html):  make your controllers skinny
 
 ##### Day 4
   * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): make sure that your app works on Heroku
@@ -96,7 +96,7 @@
   * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 
 ##### Day 2
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): implement category and order filtering with jQuery. 
+  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): implement category and order filtering with jQuery
 
 ##### Day 3
   * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
