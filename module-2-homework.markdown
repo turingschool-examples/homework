@@ -26,7 +26,7 @@
 ## Week 2
 
 ##### Day 1
-  * [Homework](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown) includes reading through Traffic Spy assignment, designing an initial schema, and practicing ActiveRecord in TaskManager. 
+  * [Homework](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown) includes reading through Traffic Spy assignment, transfer project requirements to stories and insert into a project management tool like Waffle, and begin thinking about how to design your schema. 
 
 ##### Day 2
   * Continue working on Traffic Spy
