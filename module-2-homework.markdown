@@ -67,10 +67,11 @@ Required:
    <strong>Newest song:</strong> <%= session[:most_recent_song_title] %>
  </p>
  ```
-  * Implement a `flash[:notice]` when you successfully create a song.
-  * Implement a `flash[:error]` when the song is missing a title.
+ * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Be ready to code along and ask questions.
  
 For your own good:
+  * Implement a `flash[:notice]` when you successfully create a song.
+  * Implement a `flash[:error]` when the song is missing a title.
   * Practice Basic Rails CRUD in preparation for mid-module assessment
 
 ##### Day 2
