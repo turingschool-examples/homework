@@ -57,9 +57,21 @@
 ## Week 4
 
 ##### Day 1
-  * Finish Contact Manager
+
+Required:
+  * Store the title of the last song added to MyJams in the session with a key of `:most_recent_song_title`.
+  * Add this snippet to `application.html.erb`:
+  
+ ```erb
+ <p>
+   <strong>Newest song:</strong> <%= session[:most_recent_song_title] %>
+ </p>
+ ```
+  * Implement a `flash[:notice]` when you successfully create a song.
+  * Implement a `flash[:error]` when the song is missing a title.
+ 
+For your own good:
   * Practice Basic Rails CRUD in preparation for mid-module assessment
-  * Sessions, Cookies and Flashes
 
 ##### Day 2
   * Authentication in MyJams
