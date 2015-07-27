@@ -67,7 +67,7 @@ Required:
    <strong>Newest song:</strong> <%= session[:most_recent_song_title] %>
  </p>
  ```
- * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Be ready to code along and ask questions.
+  * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Be ready to code along and ask questions.
  
 For your own good:
   * Implement a `flash[:notice]` when you successfully create a song.
