@@ -4,7 +4,7 @@
 
 Lesson: [Array Prototype Methods in JS]()
 
-Assignment: Solve exercises 1 and 2 from these [collection challenges](https://github.com/turingschool/challenges/blob/master/collections.markdown).
+Assignment: Solve exercises 1 and 3 from these [collection challenges](https://github.com/turingschool/challenges/blob/master/collections.markdown).
 
 ### Day 1.2
 
