@@ -35,14 +35,19 @@ Mocha and Chai for unit testing.
 
 Lesson: GameTime Project Kickoff
 
-Assignment: Watch this video of [Mary Rose Cook](https://vimeo.com/105955605)
-live-coding a JS game from scratch.
+
+Lesson: [Javascript's this](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/javascript_function_contexts_this_bind_and_call.markdown)
+
+Assignment: Read pages 11-27 from Kyle Simpson's "This and Object Prototypes" from the "You Don't Know JS" series. The reading is stored in the teaching slides dropbox and should be distributed as a PDF.
 
 ### Day 2.2
 
 Lesson: Object-Oriented Javascript
 
-Assignment: Work through the Canvas & OO JS Tutorial
+Assignment: Watch this video of [Mary Rose Cook](https://vimeo.com/105955605)
+live-coding a JS game from scratch.
+
+Assignment: Work through the [Canvas & OO JS Tutorial](https://github.com/worace/advanced-js-fundamentals-ck/blob/gh-pages/tutorials/03-object-oriented-javascript/03-canvas-and-object-oriented-javascript.md)
 
 ### Day 2.3
 
