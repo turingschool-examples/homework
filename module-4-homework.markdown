@@ -51,6 +51,8 @@ Assignment: Work through the [Canvas & OO JS Tutorial](https://github.com/worace
 
 ### Day 2.3
 
+* `get-in` challenge ?
+
 ### Day 2.4
 
 ### Day 2.1
