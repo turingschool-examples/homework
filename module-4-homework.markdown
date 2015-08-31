@@ -24,7 +24,7 @@ Eloquent Javascript.
 
 Lesson: General week one JS review
 
-Assignment: Build a [Linked List]() in Javascript.
+Assignment: Build a [Linked List](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown) in Javascript.
 Use [this template](https://github.com/turingschool-examples/js-linked-list)
 as a starting point. It will give you a basic setup for using
 Mocha and Chai for unit testing.
