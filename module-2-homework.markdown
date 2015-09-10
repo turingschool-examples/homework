@@ -59,12 +59,14 @@
 ##### Day 1
 
 Required:
-  * Store the title of the last song added to MyJams in the session with a key of `:most_recent_song_title`.
+  * Store the id of the last song added to MyJams in the session with a key of `:most_recent_song_id`.
+  * Add a method to your `ApplicationController` called `most_recent_song` that loads the most recent song using `:most_recent_song_id` stored in the session.
+  * Make that new method available to your views by making it a [helper method](http://apidock.com/rails/ActionController/Helpers/ClassMethods/helper_method).
   * Add this snippet to `application.html.erb`:
   
  ```erb
  <p>
-   <strong>Newest song:</strong> <%= session[:most_recent_song_title] %>
+   <strong>Newest song:</strong> <%= most_recent_song.title %>
  </p>
  ```
   * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Be ready to code along and ask questions.
