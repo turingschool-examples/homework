@@ -56,3 +56,9 @@ Assignment: Work through the [Canvas & OO JS Tutorial](https://github.com/worace
 ### Day 2.4
 
 ### Day 2.1
+
+## Week 4
+
+### Day 4.1
+
+Finish today's React tutorial by working through [Step 7](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/intro_to_react.markdown#step-7----syncing-data-from-client-to-server) from the tutorial.
