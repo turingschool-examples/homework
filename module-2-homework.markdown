@@ -18,6 +18,11 @@
 
 ##### Day 4
   * Transform Skill Inventory or Robot World to use Sequel & Sqlite3. You'll continue working on this over the weekend. 
+  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to datbase normalization video. 
+  * Suggested reading about database normailization:
+  * * [DevShed databse normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
+  * * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+  
 
 ##### Day 5 & Weekend
   * Continue transforming Skill Inventory or Robot World to use Sequel & Sqlite3.
