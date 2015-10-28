@@ -55,6 +55,7 @@
 
 ##### Day 4
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
+  * Optional: Add model and feature tests to MyJams
 
 ##### Day 5 & Weekend
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
@@ -74,7 +75,7 @@ Required:
    <strong>Newest song:</strong> <%= most_recent_song.title %>
  </p>
  ```
-  * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Be ready to code along and ask questions.
+  * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Prepare questions for class tomorrow and be ready for a code-along in the morning. 
  
 For your own good:
   * Implement a `flash[:notice]` in MyJams when you successfully create a song.
