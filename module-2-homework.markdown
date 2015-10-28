@@ -55,7 +55,10 @@
 
 ##### Day 4
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
-  * Optional: Add model and feature tests to MyJams
+    * Checkpoint 1: I0 and I1 by Friday at 9am.
+    * Checkpoint 2: I2 and I3 by Saturday at 11:59pm.
+    * Checkpoint 3: I4 by Sunday at 11:59pm.
+    * Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
 
 ##### Day 5 & Weekend
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
