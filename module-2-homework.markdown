@@ -66,10 +66,8 @@
 ## Week 4
 
 ##### Day 1
-
-Required:
   * Store the id of the last song added to MyJams in the session with a key of `:most_recent_song_id`.
-  * Add a method to your `ApplicationController` called `most_recent_song` that loads the most recent song using `:most_recent_song_id` stored in the session.
+  * Add a method to your `ApplicationController` called `most_recent_song` that loads the most recent song using `:most_recent_song_id` stored in the session. (Hint: use `Song.find...`)
   * Make that new method available to your views by making it a [helper method](http://apidock.com/rails/AbstractController/Helpers/ClassMethods/helper_method).
   * Add this snippet to `application.html.erb`:
   
@@ -78,12 +76,9 @@ Required:
    <strong>Newest song:</strong> <%= most_recent_song.title %>
  </p>
  ```
+  * Similar to your existing `flash[:errors]` that you set in the SongsController, implement a `flash[:notice]` in MyJams when you successfully create a song.
+  * Remove any existing `flash`es in your views and replace them with a dynamic content generator. Take a look at 20:33 in the [Sessions, Cookies, and Flashes](https://vimeo.com/130058574) video for a refresher on how to do this.
   * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Prepare questions for class tomorrow and be ready for a code-along in the morning. 
- 
-For your own good:
-  * Implement a `flash[:notice]` in MyJams when you successfully create a song.
-  * Implement a `flash[:error]` in MyJams when the song is missing a title.
-  * Practice Basic Rails CRUD in preparation for mid-module assessment
 
 ##### Day 2
   * Authentication in MyJams
