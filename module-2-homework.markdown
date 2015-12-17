@@ -55,10 +55,8 @@
 
 ##### Day 4
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
-    * Checkpoint 1: I0 and I1 by Friday at 9am.
-    * Checkpoint 2: I2 and I3 by Saturday at 11:59pm.
-    * Checkpoint 3: I4 by Sunday at 11:59pm.
-    * Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
+  * Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
+  * Alternatively, you may be doing [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master.markdown) instead. 
 
 ##### Day 5 & Weekend
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
