@@ -53,13 +53,9 @@
 ##### Day 3
   * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
-##### Day 4
-  * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
-  * Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
+##### Day 4 & Weekend
+  * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
   * Alternatively, you may be doing [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master.markdown) instead. 
-
-##### Day 5 & Weekend
-  * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
 
 ## Week 4
 
