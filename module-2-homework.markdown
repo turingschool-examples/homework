@@ -55,7 +55,7 @@
 
 ##### Day 4 & Weekend
   * [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html). Submit your Contact Manager repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml). 
-  * Alternatively, you may be doing [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master.markdown) instead. 
+  * Alternatively, you may be doing [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master) instead. 
 
 ## Week 4
 
@@ -70,7 +70,7 @@
    <strong>Newest tool:</strong> <%= most_recent_tool.name %>
  </p>
  ```
-  * Implement a `flash[:notice]` in MyJams when you successfully create a song.
+  * Implement a `flash[:notice]` in the ToolsController `#create` action for when you successfully create a tool. Extension: Modify your `#create` action to conditionally create a tool depending on whether or not a name is provided. Then create a `flash[:error]` that holds `@tool.errors.full_messages.join(", ")`. 
   * Use a dynamic content generator to display the flash notice. Take a look at 20:33 in the [Sessions, Cookies, and Flashes](https://vimeo.com/130058574) video for a refresher on how to do this.
   * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Prepare questions for class tomorrow and be ready for a code-along in the morning. 
 
