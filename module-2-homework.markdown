@@ -75,10 +75,10 @@
   * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Prepare questions for class tomorrow and be ready for a code-along in the morning. 
 
 ##### Day 2
-  * Authentication in MyJams
+  * Authentication in ToolChest
 
 ##### Day 3
-  * Authorization in MyJams
+  * Authorization in ToolChest
 
 ##### Day 4
   * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
