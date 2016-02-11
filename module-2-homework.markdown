@@ -68,7 +68,9 @@ Medium:
 
  ```erb
  <p>
-   <strong>Newest tool:</strong> <%= most_recent_tool.name %>
+    <% if most_recent_tool %>
+     <strong>Newest tool:</strong> <%= most_recent_tool.name %>
+    <% end %>
  </p>
  ```
 Spicy:
