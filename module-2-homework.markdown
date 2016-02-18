@@ -73,6 +73,7 @@ Medium:
     <% end %>
  </p>
  ```
+ 
 Spicy:
   * Store the quantity of all tools added in the session with a key of [:current_tool_count]
   * Store the potential revenue of all tools added in the session with a key of [:current_potential_revenue]
@@ -85,7 +86,7 @@ Spicy:
   <p>
     <strong>Current Sessions Tool Summary:</strong> <%= current_tool_summary %>
   </p>
-
+```
 
 
   * Implement a `flash[:notice]` in the ToolsController `#create` action for when you successfully create a tool. Extension: Modify your `#create` action to conditionally create a tool depending on whether or not a name is provided. Then create a `flash[:error]` that holds `@tool.errors.full_messages.join(", ")`.
