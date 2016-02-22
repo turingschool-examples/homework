@@ -69,7 +69,7 @@
 
 ##### Day 3
   * Authorization in ToolChest: An admin can fully CRUD `categories`. A regular user **should not** be able to create, update, or delete categories, but they **should** be able to see a category show page with all associated tools. 
-  * Experimenting with APIs
+  * Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
 
 ##### Day 4
   * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
