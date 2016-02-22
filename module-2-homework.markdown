@@ -59,38 +59,8 @@
 ## Week 4
 
 ##### Day 1
-Medium:
-  * Store the id of the last tool added to ToolChest in the session with a key of `:most_recent_tool_id`.
-  * Add a method to your `ApplicationController` called `most_recent_tool` that loads the most recent tool using `:most_recent_tool_id` stored in the session. (Hint: use `Tool.find...` and make sure it doesn't break if there are no tools in the database)
-  * Make that new method available to your views by making it a [helper method](http://apidock.com/rails/AbstractController/Helpers/ClassMethods/helper_method).
-  * Add this snippet to `application.html.erb`:
 
- ```erb
- <p>
-    <% if most_recent_tool %>
-     <strong>Newest tool:</strong> <%= most_recent_tool.name %>
-    <% end %>
- </p>
- ```
- 
-Spicy:
-  * Store the quantity of all tools added in the session with a key of [:current_tool_count]
-  * Store the potential revenue of all tools added in the session with a key of [:current_potential_revenue]
-  * Just like with all hashes if you try to access a key that has no value it will be nil, so make sure you set the initial session value to 0 so you can do calculations.
-  * Add a method to your `ApplicationController` called `current_tool_summary` that loads the generates a string that interpolates in the current_tool_count and the current_tool_potential_revenue)
-  * Make that new method available to your views by making it a [helper method](http://apidock.com/rails/AbstractController/Helpers/ClassMethods/helper_method).
-  * Add this snippet to `application.html.erb`:
-
-  ```erb
-  <p>
-    <strong>Current Sessions Tool Summary:</strong> <%= current_tool_summary %>
-  </p>
-```
-
-
-  * Implement a `flash[:notice]` in the ToolsController `#create` action for when you successfully create a tool. Extension: Modify your `#create` action to conditionally create a tool depending on whether or not a name is provided. Then create a `flash[:error]` that holds `@tool.errors.full_messages.join(", ")`.
-  * Use a dynamic content generator to display the flash notice. Take a look at 20:33 in the [Sessions, Cookies, and Flashes](https://vimeo.com/130058574) video for a refresher on how to do this.
-  * Watch [this video on authentication](https://vimeo.com/134451454) in preparation for tomorrow's class. Prepare questions for class tomorrow and be ready for a code-along in the morning.
+* Complete the [Sessions, Cookies, and Flashes](https://gist.github.com/rwarbelow/21a7596df9cdb551bb85) homework. 
 
 ##### Day 2
   * Authentication in ToolChest
