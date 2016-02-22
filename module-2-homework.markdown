@@ -63,7 +63,9 @@
 * Complete the [Sessions, Cookies, and Flashes](https://gist.github.com/rwarbelow/21a7596df9cdb551bb85) homework. 
 
 ##### Day 2
-  * Authentication in ToolChest
+  * Authentication in ToolChest: Add functionality so that a user has many tools and a tool belongs to a user. A logged-in user can only see his/her tools. 
+  * Modify your `most_recent_tool` helper method to return that specific user's most recent tool added. 
+  * Add a belongs-to/has-many association between `tool` and `category`. You **do not** need to create CRUD functionality for categories so long as categories can be created from `rails c` and the form to create a new tool allows the user to select a category. You will need to do some Googling in order to figure out how to insert a select dropdown into a form. 
 
 ##### Day 3
   * Authorization in ToolChest
