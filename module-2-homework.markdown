@@ -81,30 +81,30 @@
 ## Week 5
 
 ##### Day 1
-  * Start implementing the cart and order lifecycle in [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 2
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): refactor your views
-
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+ 
 ##### Day 3
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html):  make your controllers skinny
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 4
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): make sure that your app works on Heroku
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 5 & Weekend
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ## Week 6
 
 ##### Day 1
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 2
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html): implement category and order filtering with jQuery
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 3
-  * [Dinner Dash](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
+  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ##### Day 4
   * Demo night!
