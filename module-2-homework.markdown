@@ -76,6 +76,7 @@
 
 ##### Day 5 & Weekend
   * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+  * Read [this Git article](http://nvie.com/posts/a-successful-git-branching-model/) in preparation for starting Little Shop. 
 
 ## Week 5
 
