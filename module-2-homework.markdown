@@ -68,19 +68,19 @@
   * Add a belongs-to/has-many association between `tool` and `category`. You **do not** need to create CRUD functionality for categories so long as categories can be created from `rails c` and the form to create a new tool allows the user to select a category. You will need to do some Googling in order to figure out how to insert a select dropdown into a form. 
 
 ##### Day 3
-  * Authorization in ToolChest: An admin can fully CRUD `categories`. A regular user **should not** be able to create, update, or delete categories, but they **should** be able to see a category show page with all associated tools. 
 
- ### User: 
-* can view index and show page for tools that belong to self
-* cannot update users besides self
-* cannot create see or update other users tools
-* can see a category show page with all associated tools
+User: 
+ * can view index and show page for tools that belong to self
+ * cannot update users besides self
+ * cannot create see or update other users tools
+ * can see a category show page with all associated tools
+ * cannot create, update, or delete categories
 
+Admin: 
+ * can create, update, read, and delete tools. When creating a tool they must assign it to a default user. 
+ * cannot update users besides self
+ * can CRUD categories
 
-### Admin: 
-* can create, update, read, and delete tools. When creating a tool they must assign it to a default user. 
-* cannot update users besides self
-* can CRUD categories
 * Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
 
 ##### Day 4
