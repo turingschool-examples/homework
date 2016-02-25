@@ -78,7 +78,7 @@
 
 
 ### Admin: 
-* can create, update, read, and delete tools
+* can create, update, read, and delete tools. When creating a tool they must assign it to a default user. 
 * cannot update users besides self
 * can CRUD categories
 
