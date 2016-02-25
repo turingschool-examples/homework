@@ -81,8 +81,7 @@
 * can create, update, read, and delete tools. When creating a tool they must assign it to a default user. 
 * cannot update users besides self
 * can CRUD categories
-
-  * Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
+* Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
 
 ##### Day 4
   * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
