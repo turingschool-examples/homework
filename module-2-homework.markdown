@@ -46,15 +46,19 @@
 
 ##### Day 1
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
+  * Complete Challenge #2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 2
   * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
+  * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 3
   * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+  * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 4 & Weekend
   * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1508/contact_manager.yml).
+  * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ## Week 4
 
