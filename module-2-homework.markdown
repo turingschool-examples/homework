@@ -35,16 +35,16 @@
 ## Week 2
 
 ##### Day 1
-  * [ActiveRecord Practice and Set Up TrafficSpy](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
+  * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
 
 ##### Day 2
-  * Continue working on Traffic Spy
+  * Continue working on RushHour
 
 ##### Day 3
-  * Continue working on Traffic Spy
+  * Continue working on RushHour
 
 ##### Day 4 & Weekend
-  * Continue working on Traffic Spy
+  * Continue working on RushHour
 
 ## Week 3
 
