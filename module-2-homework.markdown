@@ -11,6 +11,7 @@
 
 ##### Day 2
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+  * Add basic bootstrap to your robot world or skill inventory. 
 
 ##### Day 3
   * Continue working on Skill Inventory or Robot World. Add model and feature tests using Capybara that hit the routes in your controller. Timebox this to <= 2 hours.
