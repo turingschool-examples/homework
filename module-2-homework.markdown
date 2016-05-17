@@ -35,6 +35,9 @@
 
 ## Week 2
 
+##### Helpful Videos for this week
+ * [1 of 8 Intro to Database Series. by Dr. Daniel Soper](https://www.youtube.com/watch?v=4Z9KEBexzcM)
+
 ##### Day 1
   * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
 
