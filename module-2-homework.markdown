@@ -52,6 +52,9 @@
 
 ## Week 3
 
+#### Before Monday Afternoon: 
+ * read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then answer the questions in [this gist](https://gist.github.com/rwarbelow/c3575b4e49641c02fe18). Fork it, answer the questions, and add the link to your finished version in the comments of the original. Finish the questions before this afternoon's REST, Controllers, and Routing class.
+
 ##### Day 1
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
   * Complete Challenge #2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
