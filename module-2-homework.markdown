@@ -60,6 +60,7 @@
   * Complete Challenge #2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 2
+  * [Finish the Rails Basic Worktime if you didn't during the day](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown)
   * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
   * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
