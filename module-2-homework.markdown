@@ -77,6 +77,7 @@
 ##### Day 1
 
 * Complete the [Sessions, Cookies, and Flashes](https://gist.github.com/rwarbelow/21a7596df9cdb551bb85) homework. 
+* Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson. 
 
 ##### Day 2
   * Authentication in ToolChest: Add functionality so that a user has many tools and a tool belongs to a user. A user can login and logout. A logged-in user can only see his/her tools.
