@@ -16,6 +16,7 @@
 ##### Day 3
   * Continue working on Skill Inventory or Robot World. Add model and feature tests using Capybara that hit the routes in your controller. Timebox this to <= 2 hours.
   * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 40 minutes. Come with questions.
+  * Finish answering the questions from the How The Web Works gist
 
 ##### Day 4
   * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/sinatra_crud.yml) no later than Sunday at 8pm.
