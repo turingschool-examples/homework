@@ -26,7 +26,7 @@
 
 
 ##### Day 5 & Weekend
-  * Continue transforming Skill Inventory or Robot World to use Sequel & Sqlite3.
+  * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3.
   * Suggested: Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
   *  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to database normalization video.
   * Suggested reading about database normailization:
