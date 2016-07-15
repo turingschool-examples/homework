@@ -70,7 +70,7 @@
   * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 4 & Weekend
-  * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master repo and sha of the commit for the checkpoint that's due to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1605/mix_master.yml).
+  * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1605/mix_master.yml).
   * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ## Week 4
