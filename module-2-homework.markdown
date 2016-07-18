@@ -78,7 +78,6 @@
 ##### Day 1
 
 * Complete the [Sessions, Cookies, and Flashes](https://gist.github.com/rwarbelow/21a7596df9cdb551bb85) homework. 
-* 
 * Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson. 
 
 ##### Day 2
