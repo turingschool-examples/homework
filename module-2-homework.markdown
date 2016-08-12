@@ -7,19 +7,18 @@
 
 ##### Day 1
   * Finish styling TaskManager using Bootstrap `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`. [Here](https://gist.github.com/rwarbelow/da3ef21480b704305e68) is how to add a layout.erb file with a <%= yield %>.
-  * Research: What is CRUD (in the programming sense of the word)? What CRUD functionality do we have in TaskManager already and what are we missing? What routes/views/methods would we need to add in order to have full CRUD functionality?
+  * Research CRUD. Follow the directions in this [gist](https://gist.github.com/case-eee/66ab6d4c5c8275499c1aab0d03dde1b0).
 
 ##### Day 2
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
-  * Add basic bootstrap and other custom styling to your robot world or skill inventory. 
+  * Add basic bootstrap and other custom styling to your Robot World or Skill Inventory. 
 
 ##### Day 3
-  * Continue working on Skill Inventory or Robot World. Add model and feature tests using Capybara that hit the routes in your controller. Timebox this to <= 2 hours.
+  * Continue working on Skill Inventory or Robot World. Add model and feature tests (using Capybara) that hit the routes in your controller. Timebox this to <= 2 hours.
   * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 40 minutes. Come with questions.
-  * Finish answering the questions from the How The Web Works gist
 
 ##### Day 4
-  * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1605/sinatra_crud.yml) no later than Sunday at 8pm.
+  * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/sinatra_crud.yml) no later than Sunday at 8pm.
   * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to database normalization video.
   * Suggested reading about database normailization:
     *  [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
@@ -27,7 +26,7 @@
 
 
 ##### Day 5 & Weekend
-  * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3.
+  * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work.
   * Suggested: Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
   *  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to database normalization video.
   * Suggested reading about database normailization:
