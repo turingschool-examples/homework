@@ -6,8 +6,11 @@
   * Experiment with [Bootstrap](http://getbootstrap.com/).
 
 ##### Day 1
-  * Finish styling TaskManager using Bootstrap `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`. [Here](https://gist.github.com/rwarbelow/da3ef21480b704305e68) is how to add a layout.erb file with a <%= yield %>.
+  * Finish styling TaskManager using Bootstrap `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`. [Here](https://gist.github.com/rwarbelow/da3ef21480b704305e68) is how to add a layout.erb file with a <%= yield %>. Don't spend more than 90 minutes on this. Timebox!
   * Research CRUD. Follow the directions in this [gist](https://gist.github.com/case-eee/66ab6d4c5c8275499c1aab0d03dde1b0).
+  * Reflect on Bootstrap. Follow the directions in this [gist](https://gist.github.com/case-eee/da618bca9017148e7001719999160c0f).
+  * Dive deep into [how the web works](https://gist.github.com/case-eee/6c166c78a3be3c8ba38545ff5e2b31ac) to prep for tomorrow's class. This might seem like a lot at first, but it shouldn't take you more than 30-45 minutes.
+
 
 ##### Day 2
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
