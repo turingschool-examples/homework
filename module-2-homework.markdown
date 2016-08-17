@@ -22,15 +22,12 @@
 
 ##### Day 3
   * Continue working on Skill Inventory or Robot World. Add model and feature tests (using Capybara) that hit the routes in your controller. Timebox this to <= 2 hours.
+  * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/). 
+  * Read [What is 'Rack' in Ruby/Rails?](http://blog.gauravchande.com/what-is-rack-in-ruby-rails)
   * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 40 minutes. Come with questions.
 
 ##### Day 4
   * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/sinatra_crud.yml) no later than Sunday at 8pm.
-  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to database normalization video.
-  * Suggested reading about database normailization:
-    *  [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
-    *  [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
-
 
 ##### Day 5 & Weekend
   * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work.
