@@ -13,7 +13,7 @@
 
 
 ##### Day 2
-  * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown).
+  * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/intro_to_crud.markdown).
   * Add basic bootstrap and other custom styling to your Robot World or Skill Inventory. 
   * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
    * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
