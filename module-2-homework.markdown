@@ -28,14 +28,17 @@
 
 ##### Day 4
   * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/sinatra_crud.yml) no later than Sunday at 8pm.
+  * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
 
 ##### Day 5 & Weekend
-  * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work.
-  * Suggested: Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
-  *  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0) intro to database normalization video.
-  * Suggested reading about database normailization:
-    *  [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
-    *  [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+ * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work following the directions above.
+ * Answer the Module 2/Week One Recap [questions](https://gist.github.com/case-eee/486a0e8f85ab5aa4358e19fa28ea3676).
+ * Get familiar with ActiveRecord by following this (very short) [tutorial](link-is-coming-soon).
+ * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
+ * Suggested: 
+   * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
+   * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
+   * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
 
 ## Week 2
 
