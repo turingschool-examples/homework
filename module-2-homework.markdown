@@ -33,7 +33,10 @@
 ##### Day 5 & Weekend
  * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work following the directions above.
  * Answer the Module 2/Week One Recap [questions](https://gist.github.com/case-eee/486a0e8f85ab5aa4358e19fa28ea3676).
- * Get familiar with ActiveRecord by following this (very short) [tutorial](link-is-coming-soon).
+ * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
+   * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
+   * [Mitigate Fault](resources/mitigate_fault.pdf)
+ * Get familiar with ActiveRecord by following this (very short) [tutorial](https://github.com/case-eee/intro-to-ar).
  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
  * Suggested: 
    * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
