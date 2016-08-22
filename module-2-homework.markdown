@@ -50,7 +50,7 @@
 
 ##### Day 1
   * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
-  * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). Send link to forked gist to Casey.
+  * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
 
 ##### Day 2
   * Continue working on RushHour
