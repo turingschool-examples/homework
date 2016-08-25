@@ -91,21 +91,21 @@
 * Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson. 
 
 ##### Day 2
-  * Authentication in ToolChest: Add functionality so that a user has many tools and a tool belongs to a user. A user can login and logout. A logged-in user can only see his/her tools.
-  * Modify your `most_recent_tool` helper method to return that specific user's most recent tool added. 
-  * Add a belongs-to/has-many association between `tool` and `category`. You **do not** need to create CRUD functionality for categories so long as categories can be created from `rails c` and the form to create a new tool allows the user to select a category. You will need to do some Googling in order to figure out how to insert a select dropdown into a form. 
+  * Authentication in BookShelf: Add functionality so that a user has many books and a book belongs to a user. A user can login and logout. A logged-in user can only see his/her books.
+  * Modify your `most_recent_book` helper method to return that specific user's most recent book added. 
+  * Add a belongs-to/has-many association between `book` and `category`. You **do not** need to create CRUD functionality for categories so long as categories can be created from `rails c` and the form to create a new book allows the user to select a category. You will need to do some Googling in order to figure out how to insert a select dropdown into a form. 
 
 ##### Day 3
 
 User: 
- * can view index and show page for tools that belong to self
+ * can view index and show page for books that belong to self
  * cannot update users besides self
- * cannot create see or update other users tools
- * can see a category show page with all associated tools
+ * cannot create see or update other users books
+ * can see a category show page with all associated books
  * cannot create, update, or delete categories
 
 Admin: 
- * can create, update, read, and delete tools. When creating a tool they must assign it to a default user. 
+ * can create, update, read, and delete books. When creating a book they must assign it to a default user. 
  * cannot update users besides self
  * can CRUD categories
 
