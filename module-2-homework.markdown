@@ -82,6 +82,7 @@
 ##### Day 4 & Weekend
   * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/mix_master.yml).
   * Complete the weekly [recap](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_three.md)
+  * Sign up for a [lightning talk](https://github.com/turingschool/lightning-talks) (if you haven't already!)
   * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ## Week 4
