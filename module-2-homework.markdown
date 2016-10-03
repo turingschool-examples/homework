@@ -5,41 +5,40 @@
   * [CSS Zen Garden](http://www.csszengarden.com/)
   * Experiment with [Bootstrap](http://getbootstrap.com/).
 
+
 ##### Day 1
   * Finish styling TaskManager using Bootstrap `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`. [Here](https://gist.github.com/rwarbelow/da3ef21480b704305e68) is how to add a layout.erb file with a <%= yield %>. Don't spend more than 90 minutes on this. Timebox!
   * Dive deep into [how the web works](https://gist.github.com/case-eee/6c166c78a3be3c8ba38545ff5e2b31ac) to prep for tomorrow's class. This might seem like a lot at first, but it shouldn't take you more than 30-45 minutes.
+  * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/). 
+  * Read [What is 'Rack' in Ruby/Rails?](http://blog.gauravchande.com/what-is-rack-in-ruby-rails)
 
 
 ##### Day 2
   * CRUD either Skill Inventory or Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/crud_sinatra.markdown).
   * Add basic bootstrap and other custom styling to your Robot World or Skill Inventory. 
   * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
-   * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
-   * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
-   * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
+    * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
+    * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
+    * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
 
 ##### Day 3
   * Continue working on Skill Inventory or Robot World. Add model and feature tests (using Capybara) that hit the routes in your controller. Timebox this to <= 2 hours.
-  * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/). 
-  * Read [What is 'Rack' in Ruby/Rails?](http://blog.gauravchande.com/what-is-rack-in-ruby-rails)
-  * Work through the [Fundamental SQL](http://tutorials.jumpstartlab.com/topics/sql/fundamental_sql.html) tutorial in preparation for tomorrow. This should take approximately 40 minutes. Come with questions.
+  * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
+    * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
+    * [Mitigate Fault](resources/mitigate_fault.pdf)
 
 ##### Day 4
-  * Transform Skill Inventory or Robot World to use Sqlite3. You'll continue working on this over the weekend. Submit the link to your repo [here](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/sinatra_crud.yml) no later than Sunday at 8pm.
+  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
+  * Suggested: 
+    * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
+    * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
+    * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
   * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
+  * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
+  * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
 
 ##### Day 5 & Weekend
- * Continue transforming Skill Inventory or Robot World to use SQL & Sqlite3 and submit your completed work following the directions above.
- * Answer the Module 2/Week One Recap [questions](https://gist.github.com/case-eee/486a0e8f85ab5aa4358e19fa28ea3676).
- * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
-   * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
-   * [Mitigate Fault](resources/mitigate_fault.pdf)
- * Get familiar with ActiveRecord by following this (very short) [tutorial](https://github.com/case-eee/intro-to-ar).
- * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
- * Suggested: 
-   * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
-   * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
-   * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+  * Answer the Module 2/Week One Recap [questions](https://gist.github.com/case-eee/486a0e8f85ab5aa4358e19fa28ea3676).
 
 ## Week 2
 
@@ -47,8 +46,7 @@
  * [1 of 8 Intro to Database Series. by Dr. Daniel Soper](https://www.youtube.com/watch?v=4Z9KEBexzcM)
 
 ##### Day 1
-  * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
-  * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
+  * Continue working on RushHour
 
 ##### Day 2
   * Continue working on RushHour
@@ -57,7 +55,6 @@
   * Continue working on RushHour
 
 ##### Day 4 & Weekend
-  * Continue working on RushHour
 
 ## Week 3
 
