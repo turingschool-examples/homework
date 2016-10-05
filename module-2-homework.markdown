@@ -22,7 +22,7 @@
     * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
 
 ##### Day 3
-  * Continue practicing with ActiveRecord [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).'
+  * Continue practicing with ActiveRecord [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).
   * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
   * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
     * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
