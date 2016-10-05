@@ -22,7 +22,8 @@
     * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
 
 ##### Day 3
-  * Continue working on Robot World. Add model and feature tests (using Capybara) that hit the routes in your controller. Timebox this to <= 2 hours.
+  * Continue practicing with ActiveRecord [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).'
+  * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
   * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
     * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
     * [Mitigate Fault](resources/mitigate_fault.pdf)
@@ -33,8 +34,6 @@
     * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
     * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
     * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
-  * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
-  * [ActiveRecord Practice and Set Up RushHour](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown)
   * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
 
 ##### Day 5 & Weekend
