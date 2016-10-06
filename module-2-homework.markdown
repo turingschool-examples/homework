@@ -37,7 +37,8 @@
   * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
 
 ##### Day 5 & Weekend
-  * Answer the Module 2/Week One Recap [questions](https://gist.github.com/case-eee/486a0e8f85ab5aa4358e19fa28ea3676).
+  * Answer the Module 2/Week One Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_one.md).
+  * Sign up for a [lightning talk](https://github.com/turingschool/lightning-talks) (if you haven't already!)
 
 ## Week 2
 
@@ -54,6 +55,9 @@
   * Continue working on RushHour
 
 ##### Day 4 & Weekend
+  * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
+  * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+  * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ## Week 3
 
@@ -61,8 +65,7 @@
  * Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then follow the directions in this [gist](https://gist.github.com/case-eee/cabe10d53e98e7888e22b30ba7fd4865). Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
 ##### Day 1
-  * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
-  * Complete Challenge #2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+ * TBD
 
 ##### Day 2
   * [Finish the Rails Basic Worktime if you didn't during the day](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown)
@@ -70,13 +73,11 @@
   * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 3
-  * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
   * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ##### Day 4 & Weekend
   * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/mix_master.yml).
   * Complete the weekly [recap](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_three.md)
-  * Sign up for a [lightning talk](https://github.com/turingschool/lightning-talks) (if you haven't already!)
   * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
 
 ## Week 4
