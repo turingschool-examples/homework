@@ -54,10 +54,13 @@
 ##### Day 3
   * Continue working on RushHour
 
-##### Day 4 & Weekend
+##### Day 4
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
-  * Continue working on [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+
+##### Weekend
+  * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
   * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md). 
 
 ## Week 3
 
