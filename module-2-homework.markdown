@@ -67,20 +67,24 @@
 ## Week 3
 
 ##### Day 1
- * TBD
-
-##### Day 2
   * [Finish the Rails Basic Worktime if you didn't during the day](https://github.com/turingschool/challenges/blob/master/models_databases_relationships_routes_controllers_oh_my.markdown)
   * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
+
+##### Day 2
   * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Work on [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master)
 
 ##### Day 3
   * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Finish [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master)
 
-##### Day 4 & Weekend
-  * [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master). Submit your Mix Master to [this repo](https://github.com/turingschool/ruby-submissions/blob/master/1606-b/mix_master.yml).
-  * Complete the weekly [recap](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_three.md)
+##### Day 4 
+  * Work on Project.
   * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+
+#### Weekend
+  * Continue working on Project.
+  * Complete the weekly [recap](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_three.md)
 
 ## Week 4
 
