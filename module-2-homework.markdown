@@ -56,6 +56,7 @@
 
 ##### Day 4
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
+  * Complete this [self-assessment](https://goo.gl/forms/TuDdCrDUEHzwYXpC2) on the Rush Hour learning goals.
 
 ##### Weekend
   * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
