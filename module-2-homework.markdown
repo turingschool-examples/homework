@@ -60,12 +60,10 @@
 ##### Weekend
   * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
   * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
-  * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md). 
+  * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md).
+  * Choose one of the Rush Hour trends we talked about during the Rush Hour Recap lesson. Checkout a new branch on your Rush Hour project (`your-name-refactor`) and implement the refactoring discussed based on that trend. 
 
 ## Week 3
-
-#### Before Monday Afternoon: 
- * Read [this article](http://www.theodinproject.com/ruby-on-rails/routing) on routing in Rails in preparation for this afternoon's first Rails class. Google terms that are unfamiliar to you. Then follow the directions in this [gist](https://gist.github.com/case-eee/cabe10d53e98e7888e22b30ba7fd4865). Finish the questions before this afternoon's REST, Controllers, and Routing class.
 
 ##### Day 1
  * TBD
