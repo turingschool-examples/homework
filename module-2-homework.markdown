@@ -62,7 +62,7 @@
   * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
   * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
   * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md).
-  * Choose one of the Rush Hour trends we talked about during the Rush Hour Recap lesson. Checkout a new branch on your Rush Hour project (`your-name-refactor`) and implement the refactoring discussed based on that trend. 
+  * Choose one of the Rush Hour trends we talked about during your Rush Hour evaluation. Checkout a new branch on your Rush Hour project (`your-name-refactor`) and implement the refactoring discussed based on that trend. 
 
 ## Week 3
 
