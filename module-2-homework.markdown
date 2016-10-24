@@ -90,36 +90,24 @@
 
 ##### Day 1
 
-* Complete the [Sessions, Cookies, and Flashes](https://gist.github.com/case-eee/de7ee518ba2051338986838f66c31798) homework. 
+* Finish the Authenication/Authorization Workshop.
+* Push your Job Tracker application to Heroku! If you're not sure how to do this, look back at the Mix Master project.
 * Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson. 
 
 ##### Day 2
-  * Authentication in BookShelf: Add functionality so that a user has many books and a book belongs to a user. A user can login and logout. A logged-in user can only see his/her books.
-  * Modify your `most_recent_book` helper method to return that specific user's most recent book added. 
-  * Add a belongs-to/has-many association between `book` and `category`. You **do not** need to create CRUD functionality for categories so long as categories can be created from `rails c` and the form to create a new book allows the user to select a category. You will need to do some Googling in order to figure out how to insert a select dropdown into a form. 
+* TBD
 
 ##### Day 3
 
-User: 
- * can view index and show page for books that belong to self
- * cannot update users besides self
- * cannot create see or update other users books
- * can see a category show page with all associated books
- * cannot create, update, or delete categories
-
-Admin: 
- * can create, update, read, and delete books. When creating a book they must assign it to a default user. 
- * cannot update users besides self
- * can CRUD categories
-
-* Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
+* TBD
+* Extension: Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
 
 ##### Day 4
-  * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
+* TBD
 
 ##### Day 5 & Weekend
-  * [Rails Mini-Project](https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown)
-  * Read [this Git article](http://nvie.com/posts/a-successful-git-branching-model/) in preparation for starting Little Shop. 
+
+* Relax!
 
 ## Week 5
 
