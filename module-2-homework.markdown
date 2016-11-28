@@ -1,6 +1,7 @@
 ## Week 1
 
 ##### Ongoing
+  * Finding CSS/HTML challenging still? Checkout out this [tutorial](https://github.com/turingschool-examples/introductory-static-site)  
   * Reverse-engineer one of your favorite websites to practice your HTML/CSS skills.
   * [CSS Zen Garden](http://www.csszengarden.com/)
   * Experiment with [Bootstrap](http://getbootstrap.com/).
@@ -16,17 +17,13 @@
 ##### Day 2
   * CRUD Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/intro_to_crud_redux.markdown).
   * Add basic styling to your Robot World. Timebox this!
-  * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
-    * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
-    * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
-    * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
 
 ##### Day 3
   * Continue practicing with ActiveRecord [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).
-  * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
   * Prep for tomorrow's Collaborative Communication session by reading these two (very short) articles:
     * [Ask Questions Instead of Giving Directions](resources/ask_questions.pdf)
     * [Mitigate Fault](resources/mitigate_fault.pdf)
+  * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
 
 ##### Day 4
   * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
@@ -39,6 +36,10 @@
 ##### Day 5 & Weekend
   * Answer the Module 2/Week One Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_one.md).
   * Sign up for a [lightning talk](https://github.com/turingschool/lightning-talks) (if you haven't already!)
+  * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
+    * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
+    * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
+    * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
 
 ## Week 2
 
