@@ -15,7 +15,7 @@
 
 
 ##### Day 2
-  * CRUD Robot World. Instructions are at the bottom of [this file](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/intro_to_crud_redux.markdown).
+  * CRUD Robot World. Instructions are at the bottom of [here](https://github.com/turingschool-examples/robot-world).
   * Add basic styling to your Robot World. Timebox this!
 
 ##### Day 3
