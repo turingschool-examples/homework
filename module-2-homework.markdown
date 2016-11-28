@@ -15,7 +15,7 @@
 
 
 ##### Day 2
-  * CRUD Robot World. Instructions are at the bottom of [here](https://github.com/turingschool-examples/robot-world).
+  * CRUD Robot World. Instructions are found [here](https://github.com/turingschool-examples/robot-world).
   * Add basic styling to your Robot World. Timebox this!
 
 ##### Day 3
