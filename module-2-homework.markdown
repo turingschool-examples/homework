@@ -1,7 +1,7 @@
 ## Week 1
 
 ##### Ongoing
-  * Finding CSS/HTML challenging still? Checkout out this [tutorial](https://github.com/turingschool-examples/introductory-static-site)  
+  * Finding CSS/HTML challenging still? Checkout out this [tutorial](https://github.com/turingschool-examples/introductory-static-site)
   * Reverse-engineer one of your favorite websites to practice your HTML/CSS skills.
   * [CSS Zen Garden](http://www.csszengarden.com/)
   * Experiment with [Bootstrap](http://getbootstrap.com/).
@@ -10,7 +10,7 @@
 ##### Day 1
   * Finish adding functionality to TaskManager by following this [tutorial](https://gist.github.com/case-eee/06c54aae5b414dfc010f485827c9d1db).
   * Dive deep into [how the web works](https://gist.github.com/case-eee/6c166c78a3be3c8ba38545ff5e2b31ac) to prep for tomorrow's class. This might seem like a lot at first, but it shouldn't take you more than 30-45 minutes.
-  * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/). 
+  * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/).
   * Read [What is 'Rack' in Ruby/Rails?](http://blog.gauravchande.com/what-is-rack-in-ruby-rails)
 
 
@@ -27,11 +27,12 @@
 
 ##### Day 4
   * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
-  * Suggested: 
+  * Suggested:
     * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
     * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
     * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
   * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
+  * Create a Job Tracker in Google Sheets and email to lia@turing.io, mstewart@turing.io, sal@turing.io, and casey@turing.io *due date: 12/2/16*
 
 ##### Day 5 & Weekend
   * Answer the Module 2/Week One Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_one.md).
@@ -61,9 +62,9 @@
 
 ##### Weekend
   * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
-  * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a).
   * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md).
-  * Choose one of the Rush Hour trends we talked about during your Rush Hour evaluation. Checkout a new branch on your Rush Hour project (`your-name-refactor`) and implement the refactoring discussed based on that trend. 
+  * Choose one of the Rush Hour trends we talked about during your Rush Hour evaluation. Checkout a new branch on your Rush Hour project (`your-name-refactor`) and implement the refactoring discussed based on that trend.
 
 ## Week 3
 
@@ -72,16 +73,17 @@
   * [Form and Route Helpers](https://github.com/turingschool/challenges/blob/master/form_route_helpers_rails.markdown)
 
 ##### Day 2
-  * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Complete Challenge #3 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a).
   * Work on [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master)
 
 ##### Day 3
-  * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Complete Challenge #4 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a).
   * Finish [MixMaster](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master)
 
-##### Day 4 
+##### Day 4
   * Work on Project.
-  * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a). 
+  * Complete Challenge #5 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a).
+  * If you have not already, add ten companies to job tracker, include: point of contact, github profile, linkedin, twitter, personal site *due date 12/16/16*
 
 #### Weekend
   * Continue working on Project.
@@ -93,7 +95,7 @@
 
 * Finish the Authenication/Authorization Workshop.
 * Push your Job Tracker application to Heroku! If you're not sure how to do this, look back at the Mix Master project.
-* Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson. 
+* Watch [this video](https://vimeo.com/134451454) on authentication to prep yourself for tomorrows lesson.
 
 ##### Day 2
 * Work on Rails MiniProject
@@ -101,14 +103,12 @@
 ##### Day 3
 
 * Work on Rails MiniProject
-* Extension: Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop. 
+* Extension: Experimenting with APIs: Work through [this tutorial and workshop](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/outlines/exploring_apis.markdown) which will prepare you for extensions in your Rails Mini-Project and Little Shop.
+* Send the email that you crafted in the Cold Outreach class on Tuesday to cold outreach contact; email mstewart@turing.io, sal@turing.io, and casey@turing.io with who, title, and company by due date *due date 12/21/16*
 
-##### Day 4
+##### Day 4 & Winter Break
 * Work on Rails MiniProject
-
-##### Day 5 & Weekend
-
-* Relax!
+* Five new cold outreach emails sent; email mstewart@turing.io, sal@turing.io, and casey@turing.io who, title, and company by due date *due date 12/30/16*
 
 ## Week 5
 
@@ -117,14 +117,12 @@
 
 ##### Day 2
   * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
- 
+
 ##### Day 3
   * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+  * Five new cold outreach emails sent; email mstewart@turing.io, sal@turing.io, and casey@turing.io who, title, and company by due date *due date 1/6/17*
 
-##### Day 4
-  * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
-
-##### Day 5 & Weekend
+##### Day 4 & Weekend
   * [Little Shop](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
 ## Week 6
@@ -141,8 +139,9 @@
 ##### Day 4
   * Demo night!
 
-##### Day 5 & Weekend
+##### Day 5 & Intermission
   * Enjoy your intermission week!
+  * Attend two networking events and send three sentence overview of what was attended and experience to mstewart@turing.io *due date 1/23/17*
 
 ##### Optional Intermediate SQL
   * Revisit the [notes](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) from class.
