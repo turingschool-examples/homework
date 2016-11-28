@@ -7,7 +7,6 @@
 
 
 ##### Day 1
-  * Finish styling TaskManager using Bootstrap `layout.erb`, `index.erb`, `show.erb`, `new.erb`, and `dashboard.erb`. [Here](https://gist.github.com/rwarbelow/da3ef21480b704305e68) is how to add a layout.erb file with a <%= yield %>. Don't spend more than 90 minutes on this. Timebox!
   * Dive deep into [how the web works](https://gist.github.com/case-eee/6c166c78a3be3c8ba38545ff5e2b31ac) to prep for tomorrow's class. This might seem like a lot at first, but it shouldn't take you more than 30-45 minutes.
   * Read the "What is Rack" section (just the first one) in this [article](http://rubylearning.com/blog/2013/04/02/whats-rack/). 
   * Read [What is 'Rack' in Ruby/Rails?](http://blog.gauravchande.com/what-is-rack-in-ruby-rails)
