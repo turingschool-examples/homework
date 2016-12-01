@@ -30,7 +30,7 @@
   * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
     * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
     * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
-    * [Testing your App with Capybara](http://jnicklas.github.io/capybara/)
+    * [Testing your App with Capybara](https://github.com/teamcapybara/capybara)
   * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
   * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
   * Suggested:
