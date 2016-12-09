@@ -60,7 +60,7 @@
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
 
 ##### Weekend
-  * Complete [Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+  * Complete [Blogger](https://github.com/turingschool/curriculum/blob/master/source/projects/blogger_reformat.md)
   * Complete Challenge 1 & 2 from [Schema Practice](https://gist.github.com/rwarbelow/80417edbcc42578cb56a).
   * Answer the Week Two Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_two.md).
 
