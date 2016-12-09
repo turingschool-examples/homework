@@ -48,13 +48,13 @@
  * [1 of 8 Intro to Database Series. by Dr. Daniel Soper](https://www.youtube.com/watch?v=4Z9KEBexzcM)
 
 ##### Day 1
-  * Continue working on RushHour
+  * Continue working on Bike Share
 
 ##### Day 2
-  * Continue working on RushHour
+  * Continue working on Bike Share
 
 ##### Day 3
-  * Continue working on RushHour
+  * Continue working on Bike Share
 
 ##### Day 4
   * Complete the [routes and controllers](https://github.com/turingschool/challenges/blob/master/routes_controllers_rails.markdown) homework.
