@@ -106,6 +106,7 @@
 
 ##### Day 4 & Winter Break
 * Work on Rails MiniProject
+* Write a technical blog post (post it on your personal blog or medium)
 * Five new cold outreach emails sent; email mstewart@turing.io, sal@turing.io, and casey@turing.io who, title, and company by due date *due date 12/30/16*
 
 ## Week 5
