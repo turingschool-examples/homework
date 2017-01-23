@@ -140,7 +140,7 @@
 
 ##### Day 5 & Intermission
   * Enjoy your intermission week!
-  * Attend two networking events and send three sentence overview of what was attended and experience to mstewart@turing.io *due date 1/23/17*
+  * Attend two networking events and have three sentence overview of what was attended and experience ready to submit at Mod3 portfolio review *due date 1/23/17*
 
 ##### Optional Intermediate SQL
   * Revisit the [notes](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/intermediate_sql.md) from class.
