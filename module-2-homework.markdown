@@ -17,6 +17,11 @@
 ##### Day 2
   * CRUD Robot World. Instructions are found [here](https://github.com/turingschool-examples/robot-world).
   * Add basic styling to your Robot World. Timebox this!
+  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
+  * Suggested:
+    * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
+    * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
+    * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
 
 ##### Day 3
   * Continue practicing with ActiveRecord [here](https://github.com/turingschool/challenges/blob/master/active_record_and_database_design.markdown).
@@ -26,17 +31,11 @@
   * [Optional, but Highly Suggested] Work through the [Routing Playground](https://github.com/s-espinosa/routing_playground) to learn more about Sinatra routes.
 
 ##### Day 4
-  * Create a Job Tracker in Google Sheets and email to lia@turing.io, mstewart@turing.io, sal@turing.io, and casey@turing.io *due date: 12/2/16*
   * Research Capybara (a tool we'll be using tomorrow). The following resources are a good start:
     * [The Basics of Capybara and Improving your Tests](https://www.sitepoint.com/basics-capybara-improving-tests/)
     * [Capybara (software) - Wikipedia](https://en.wikipedia.org/wiki/Capybara_(software))
     * [Testing your App with Capybara](https://github.com/teamcapybara/capybara)
-  * [DTR for Rush Hour](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
-  * [Watch Sharif Ramadan's intro to 1NF, 2NF and 3NF databases. They're only about 4 minutes each.](https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0)
-  * Suggested:
-    * Read the [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) book.
-    * [DevShed - An Introduction to Database Normalization](http://www.devshed.com/c/a/mysql/an-introduction-to-database-normalization/)
-    * [Mike Hillyer's Blog Post - intro to database normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+  * [DTR for Bike Share](https://gist.github.com/case-eee/38e212c799c563f58766128b5057858a). One group member should send link to forked gist to Casey.
 
 ##### Day 5 & Weekend
   * Answer the Module 2/Week One Recap [questions](https://github.com/turingschool/checks-for-understanding/blob/master/module-2/backend/week_one.md).
